@@ -1,2 +1,1 @@
-# Netflix_Clone
-A Netflix homepage clone using HTML, CSS, and JS
+# Netflix-Clone-Web-App
